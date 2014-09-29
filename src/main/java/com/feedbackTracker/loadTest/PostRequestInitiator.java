@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.caresol.feedbackTracker.loadTest;
+package com.feedbackTracker.loadTest;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package com.caresol.feedbackTracker.loadTest;
+package com.feedbackTracker.loadTest;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ExecutorService;
